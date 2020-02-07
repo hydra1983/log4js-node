@@ -38,6 +38,7 @@
     "lib": "lib"
   },
   "dependencies": {
+    "browser-or-node": "^1.2.1",
     "date-format": "^3.0.0",
     "debug": "^4.1.1",
     "flatted": "^2.0.1",
