@@ -15,6 +15,7 @@ test/streams/test-*
 .idea
 .vscode
 .DS_Store
+test/tap/freeze-date-file-test
 
 yarn.lock
 coverage/
